@@ -17,6 +17,7 @@
 |   26 | [删除排序数组中的重复项](./problems/26.remove-duplicates-from-sorted-array.md)                                        | 已解决 |
 |   27 | [移除元素](./problems/27.remove-element.md)                                                                           | 已解决 |
 |   35 | [搜索插入位置](./problems/35.search-insert-position.md)                                                               | 已解决 |
+|  160 | [相交链表](./problems/160.intersection-of-two-linked-lists.md)                                                        | 已解决 |
 |  523 | [连续的子数组和](./problems/523.continuous-subarray-sum.md)                                                           | 已解决 |
 |  560 | [和为K的子数组](./problems/560.subarray-sum-equals-k.md)                                                              | 已解决 |
 |  704 | [二分查找](./problems/704.binary-search.md)                                                                           | 已解决 |
