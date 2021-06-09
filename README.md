@@ -19,8 +19,9 @@
 |   35 | [搜索插入位置](./problems/35.search-insert-position.md)                                                               | 已解决 |
 |  160 | [相交链表](./problems/160.intersection-of-two-linked-lists.md)                                                        | 已解决 |
 |  203 | [移除链表元素](./problems/203.remove-linked-list-elements.md)                                                         | 已解决 |
+|  492 | [目标和](./problems/492.target-sum.md)                                                                                | 进行中 |
 |  523 | [连续的子数组和](./problems/523.continuous-subarray-sum.md)                                                           | 已解决 |
 |  560 | [和为K的子数组](./problems/560.subarray-sum-equals-k.md)                                                              | 已解决 |
 |  704 | [二分查找](./problems/704.binary-search.md)                                                                           | 已解决 |
 | 1744 | [你能在你最喜欢的那天吃到你最喜欢的糖果吗？](./problems/1744.can-you-eat-your-favorite-candy-on-your-favorite-day.md) | 已解决 |
-| 1886 | [判断矩阵经轮转后是否一致](./problems/determine-whether-matrix-can-be-obtained-by-rotation.md)                  | 已解决 |
+| 1886 | [判断矩阵经轮转后是否一致](./problems/determine-whether-matrix-can-be-obtained-by-rotation.md)                        | 已解决 |
